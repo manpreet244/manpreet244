@@ -9,7 +9,7 @@ I am Manpreet Kaur .A second year computer science student . I am currently lear
 Coding gives me confidence
 
 ## 2. Profile Visits
-           ![visitors](https://visitor-badge.glitch.me/badge?manpreet244=manpreet244)
+           ![visitors](https://visitor-badge.glitch.me/badge?page_id=manpreet244.manpreet244)
 
 ## Github Stats
 
