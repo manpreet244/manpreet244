@@ -7,4 +7,4 @@ I am Manpreet Kaur .A second year computer science student . I am currently lear
 :heart_eyes: I'm currently working on reactjs
 :star:I love :blue_heart: to code  :star:
 Coding gives me confidence
-<img align="left"src="https://github-readme-stats.vercel.app/api?username=manpreet244&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manpreet244&show_icons=true&hide_border=true"/>
