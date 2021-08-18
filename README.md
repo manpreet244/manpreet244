@@ -4,8 +4,7 @@ I am Manpreet Kaur .A second year computer science student .
 :mailbox: Reach me Out!(mailto:mk9487371@gmail.com)
 
 :heart_eyes: I'm currently working on reactjs<br>
-:star:I love :blue_heart: to code  :star:<br>
-Coding gives me confidence
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
