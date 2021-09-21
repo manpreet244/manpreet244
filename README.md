@@ -1,9 +1,10 @@
 
-##  Hi I'm Manpreet Kaur <img width="50px" height="40px" src="https://i.pinimg.com/originals/03/68/c2/0368c21a37cce3e3628ff8eeccc4e2a4.gif">
-I am Manpreet Kaur .A second year computer science student .
-:mailbox: Reach me Out!(mailto:mk9487371@gmail.com)
+ <h2 align="center" > Hi I'm Manpreet Kaur<h2>
+ <h3 align="center">A second year computer science student .</h3>
+:mailbox: Reach me Out!<a href = "mailto: mk9487371@gmail.com">Send Email</a>
 
-:heart_eyes: I am currently learning Algorithms and working on personal projects<br>
+:heart_eyes: I am currently learning Algorithms and working on personal projects 
+ <br>
 
 ### Languages and Tools:
 
