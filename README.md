@@ -1,9 +1,9 @@
-### Hi there 👋
-## 1. Hi I'm Manpreet Kaur <img width="50px" height="40px" src="https://i.pinimg.com/originals/03/68/c2/0368c21a37cce3e3628ff8eeccc4e2a4.gif">
+
+##  Hi I'm Manpreet Kaur <img width="50px" height="40px" src="https://i.pinimg.com/originals/03/68/c2/0368c21a37cce3e3628ff8eeccc4e2a4.gif">
 I am Manpreet Kaur .A second year computer science student .
 :mailbox: Reach me Out!(mailto:mk9487371@gmail.com)
 
-:heart_eyes: I'm currently working on reactjs<br>
+:heart_eyes: I am currently learning Algorithms and working on personal projects<br>
 
 ### Languages and Tools:
 
@@ -12,7 +12,7 @@ I am Manpreet Kaur .A second year computer science student .
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="DSA" width="30px" src="https://miro.medium.com/max/1200/1*-EFdnPuVrwUOmYte11v0OA.png"/>
+<img align="left" alt="DSA" width="30px" src="https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg"/>
 
 <img align="left" alt="C" width="30px" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"/>
 
