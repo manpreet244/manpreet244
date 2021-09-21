@@ -12,7 +12,7 @@ I am Manpreet Kaur .A second year computer science student .
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="DSA" width="30px" src="https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg"/>
+<img align="left" alt="DSA" width="45px" height="60px"src="https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg"/>
 
 <img align="left" alt="C" width="30px" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"/>
 
