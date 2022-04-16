@@ -1,6 +1,6 @@
 
  <h2 align="center" > Hi I'm Manpreet Kaur<h2>
- <h3 align="center">A second year computer science student .</h3>
+ <h3 align="center">A third year computer science student .</h3>
 :mailbox: Reach me Out!<a href = "mailto: mk9487371@gmail.com">Send Email</a>
 
 :heart_eyes: I am currently learning Algorithms and working on personal projects 
