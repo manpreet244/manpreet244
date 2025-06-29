@@ -1,31 +1,57 @@
+<h2 align="center">✨ Hi, I'm Manpreet Kaur ✨</h2>
 
- <h2 align="center" > Hi I'm Manpreet Kaur<h2>
+<p align="center">
+  💻 Passionate Developer | 📚 Lifelong Learner | 🚀 Building Projects & Exploring Algorithms
+</p>
 
-:mailbox: Reach me Out!<a href = "mailto: mk9487371@gmail.com">Send Email</a>
+---
 
-:heart_eyes: I am currently learning Algorithms and working on personal projects 
- <br>
+### 📫 Reach Me Out
 
-### Languages and Tools:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk9487371@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+<!-- Add your real LinkedIn link above -->
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="DSA" width="62px" height="40px"src="https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg"/>
-<img align="left" alt="C" width="30px" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"/>
-<img align="left" alt="react" width="55px" height="45px" src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"/>
+---
 
-<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>
+### 🚀 Currently
 
+- 🌱 Learning **Data Structures & Algorithms**
+- 🛠️ Working on **Personal Projects**
+- 🔍 Exploring **Frontend Technologies** and **React**
 
-<br>
+---
 
-#### Profile Visitors
- <img src="https://komarev.com/ghpvc/?username=manpreet244&label=Profile%20views&color=0e75b6&style=flat"/>
+### 🛠️ Languages & Tools
 
-### Github Stats 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="Sass" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="C" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="40"/>
+  <img src="https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg" alt="DSA" width="60" height="40"/>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manpreet244&show_icons=true&hide_border=true&theme=radical"/><br>
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreet244&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manpreet244&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreet244&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 👀 Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manpreet244&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
