@@ -8,7 +8,10 @@
 
 ### 💖 About Me
 
-🖥️ **I love Front-end Development!**  
+🖥️ 👋 Hi, I'm Manpreet Kaur — a passionate Full-Stack Developer skilled in building modern web applications.  
+💻 I love creating sleek, responsive UIs and robust backend systems using React, Node.js, and MongoDB.  
+🚀 Constantly learning, exploring new tech, and turning ideas into real-world digital solutions.
+
 
 ---
 
