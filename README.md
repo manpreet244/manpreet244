@@ -13,19 +13,19 @@
 ---
 
 ### 📫 Connect With Me
-### 📫 Connect With Me
 
-### 📫 Connect With Me
 
-[![Gmail Icon](https://img.icons8.com/color/30/gmail-new.png)](mailto:mk9487371@gmail.com)
-**Email:** [mk9487371@gmail.com](mailto:mk9487371@gmail.com)
-
-[![LinkedIn Icon](https://img.icons8.com/color/30/linkedin.png)](https://www.linkedin.com/in/manpreet-kaur-746478212/)
-**LinkedIn:** [Manpreet Kaur](https://www.linkedin.com/in/manpreet-kaur-746478212/)
-
-[![YouTube Icon](https://img.icons8.com/color/30/youtube-play.png)](https://www.youtube.com/@Manpreetkaur-xr7cg)
-**YouTube:** [@Manpreetkaur-xr7cg](https://www.youtube.com/@Manpreetkaur-xr7cg)
-
+<p align="center">
+  <a href="mailto:mk9487371@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/manpreet-kaur-746478212/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@Manpreetkaur-xr7cg">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
 ---
 
