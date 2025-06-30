@@ -15,20 +15,17 @@
 ### 📫 Connect With Me
 ### 📫 Connect With Me
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="30" style="vertical-align:middle;"/> 
-  <a href="mailto:mk9487371@gmail.com">E-mail</a>
-</p>
+### 📫 Connect With Me
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" style="vertical-align:middle;"/> 
-  <a href="https://www.linkedin.com/in/manpreet-kaur-746478212/">LinkedIn</a>
-</p>
+[![Gmail Icon](https://img.icons8.com/color/30/gmail-new.png)](mailto:mk9487371@gmail.com)
+**Email:** [mk9487371@gmail.com](mailto:mk9487371@gmail.com)
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" style="vertical-align:middle;"/> 
-  <a href="https://www.youtube.com/@Manpreetkaur-xr7cg">YouTube</a>
-</p>
+[![LinkedIn Icon](https://img.icons8.com/color/30/linkedin.png)](https://www.linkedin.com/in/manpreet-kaur-746478212/)
+**LinkedIn:** [Manpreet Kaur](https://www.linkedin.com/in/manpreet-kaur-746478212/)
+
+[![YouTube Icon](https://img.icons8.com/color/30/youtube-play.png)](https://www.youtube.com/@Manpreetkaur-xr7cg)
+**YouTube:** [@Manpreetkaur-xr7cg](https://www.youtube.com/@Manpreetkaur-xr7cg)
+
 
 ---
 
