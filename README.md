@@ -4,6 +4,11 @@
   💻 Full-Stack Developer | 🌐 Frontend & Backend Enthusiast | 🚀 Always Building, Always Learning
 </p>
 
+:computer:𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
+🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮
+
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 ---
 
 ### 📫 Connect With Me
@@ -25,15 +30,17 @@
 
 ### 🧠 Skills & Technologies
 
-#### ⚙️ Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="Sass" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40"/>
-</p>
+#### ⚙️ My Tech Stack  
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)  
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)  
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)  
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)  
+![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+
 
 #### 🖥️ Backend
 <p>
@@ -42,13 +49,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>
-</p>
-
-#### 🔧 Other Tools & Concepts
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VS Code" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40"/>
-  <img src="https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg" alt="DSA" width="60" height="40"/>
 </p>
 
 ---
