@@ -9,16 +9,26 @@
 ### 💖 About Me
 
 🖥️ **I love Front-end Development!**  
-💡 Passionate about bringing ideas to life through elegant and responsive UI.  
-🔎 Exploring, learning, and contributing to meaningful projects.
 
 ---
 
 ### 📫 Connect With Me
+### 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/-mk9487371@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk9487371@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Manpreet%20Kaur-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manpreet-kaur-746478212/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Manpreetkaur-xr7cg)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="30" style="vertical-align:middle;"/> 
+  <a href="mailto:mk9487371@gmail.com">E-mail</a>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" style="vertical-align:middle;"/> 
+  <a href="https://www.linkedin.com/in/manpreet-kaur-746478212/">LinkedIn</a>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" style="vertical-align:middle;"/> 
+  <a href="https://www.youtube.com/@Manpreetkaur-xr7cg">YouTube</a>
+</p>
 
 ---
 
